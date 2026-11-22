@@ -11,6 +11,8 @@ Semiconductor inspection equipment software engineer: wafer alignment, defect de
   - [매칭 점수가 100점이 되는 이유](https://mhbae-semi-lab.github.io/portfolio/notes/score-normalization.html)
   - [화면 그리기가 촬영을 따라가지 못할 때](https://mhbae-semi-lab.github.io/portfolio/notes/frame-backlog.html)
   - [평가 점수가 너무 좋을 때](https://mhbae-semi-lab.github.io/portfolio/notes/eval-leakage.html)
+  - [결함 지도가 그럴듯하게 틀릴 때](https://mhbae-semi-lab.github.io/portfolio/notes/klarf-map-check.html)
+  - [시뮬레이터의 답을 믿기 전에](https://mhbae-semi-lab.github.io/portfolio/notes/queue-model-check.html)
 - 직접 써 보는 앱 (누구나 자기 데이터로 · 데이터는 내 기기에만 · 검증은 합성 데이터)
   - [Klarf 웨이퍼 맵 뷰어](https://mhbae-semi-lab.github.io/klarf-viewer/) · [레시피 기준 관리](https://mhbae-semi-lab.github.io/recipe-golden/) · [프레임 대기열 시뮬레이터](https://mhbae-semi-lab.github.io/frame-backlog-sim/) · [장비 SW 위험 코드 린트](https://github.com/mhbae-semi-lab/equip-sw-lint) · [설비 로그 분석기](https://mhbae-semi-lab.github.io/log-analyzer/)
   - 그 밖: [MDCV 메일 분류기](https://mhbae-semi-lab.github.io/mdcv/) · [주간 보고 생성기](https://mhbae-semi-lab.github.io/weekly-report/) · [프롬프트 어드바이저](https://github.com/mhbae-semi-lab/prompt-advisor) · [LLM Pulse](https://github.com/mhbae-semi-lab/llm-pulse)
