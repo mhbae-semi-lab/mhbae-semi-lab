@@ -6,7 +6,7 @@ Wafer Align, 결함 검출, Recipe 자동화를 설계부터 양산 안정화까
 Semiconductor inspection equipment software engineer: wafer alignment, defect detection, recipe automation.
 
 - 포트폴리오: https://mhbae-semi-lab.github.io/portfolio/ ([English](https://mhbae-semi-lab.github.io/portfolio/en.html))
-- 1장 이력서: https://mhbae-semi-lab.github.io/portfolio/resume.html
+- 1장 이력서: https://mhbae-semi-lab.github.io/portfolio/resume.html ([PDF](https://mhbae-semi-lab.github.io/portfolio/assets/resume.pdf))
 - 기술 노트
   - [매칭 점수가 100점이 되는 이유](https://mhbae-semi-lab.github.io/portfolio/notes/score-normalization.html)
   - [화면 그리기가 촬영을 따라가지 못할 때](https://mhbae-semi-lab.github.io/portfolio/notes/frame-backlog.html)
@@ -14,8 +14,8 @@ Semiconductor inspection equipment software engineer: wafer alignment, defect de
   - [결함 지도가 그럴듯하게 틀릴 때](https://mhbae-semi-lab.github.io/portfolio/notes/klarf-map-check.html)
   - [시뮬레이터의 답을 믿기 전에](https://mhbae-semi-lab.github.io/portfolio/notes/queue-model-check.html)
 - 직접 써 보는 앱 (누구나 자기 데이터로 · 데이터는 내 기기에만 · 검증은 합성 데이터)
-  - [Klarf 웨이퍼 맵 뷰어](https://mhbae-semi-lab.github.io/klarf-viewer/) · [레시피 기준 관리](https://mhbae-semi-lab.github.io/recipe-golden/) · [프레임 대기열 시뮬레이터](https://mhbae-semi-lab.github.io/frame-backlog-sim/) · [장비 SW 위험 코드 린트](https://github.com/mhbae-semi-lab/equip-sw-lint) · [설비 로그 분석기](https://mhbae-semi-lab.github.io/log-analyzer/)
-  - 그 밖: [MDCV 메일 분류기](https://mhbae-semi-lab.github.io/mdcv/) · [주간 보고 생성기](https://mhbae-semi-lab.github.io/weekly-report/) · [프롬프트 어드바이저](https://github.com/mhbae-semi-lab/prompt-advisor) · [LLM Pulse](https://github.com/mhbae-semi-lab/llm-pulse)
+  - [Klarf 웨이퍼 맵 뷰어](https://mhbae-semi-lab.github.io/klarf-viewer/) · [프레임 대기열 시뮬레이터](https://mhbae-semi-lab.github.io/frame-backlog-sim/) · [장비 SW 위험 코드 린트](https://github.com/mhbae-semi-lab/equip-sw-lint)
+  - 그 밖: [레시피 기준 관리](https://mhbae-semi-lab.github.io/recipe-golden/) · [설비 로그 분석기](https://mhbae-semi-lab.github.io/log-analyzer/) · [MDCV 메일 분류기](https://mhbae-semi-lab.github.io/mdcv/) · [주간 보고 생성기](https://mhbae-semi-lab.github.io/weekly-report/)
 
 C++ (MFC) · C# (WPF, WinForms) · Python · OpenCV · PyTorch · ONNX
 
